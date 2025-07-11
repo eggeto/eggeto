@@ -1,7 +1,7 @@
 ## Hi there 👋
 Hello,
 I'm Tom aka eggeto.
-- Interested in Powershell and Python.
+- Interested in Powershell, Python and much more.
 - I work as a system administrator in Belgium. [LinkedIn](https://www.linkedin.com/in/tom-eggermont-8b7977146/)
   - currently coding with Microsoft Graph Api and Powershell
 <!--
