@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+Hello,
+I'm Tom aka eggeto.
+- Interested in Powershell and Python.
+- I work as a system engineer in Belgium. [LinkedIn](https://www.linkedin.com/in/tom-eggermont-8b7977146/)
+  - currently doing things with Microsoft Graph Api and Powershell
 <!--
 **eggeto/eggeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
