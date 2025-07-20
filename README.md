@@ -1,4 +1,4 @@
-## Hi there 👋
+- ## Hi there 👋
 Hello,
 I'm Tom aka eggeto.
 - Interested in Powershell, Python and much more.
